@@ -1,4 +1,4 @@
-local R = 8314.46261815324 --universal gas constant
+/*local R = 8314.46261815324 --universal gas constant
 local g0 = 9.80665 --standard gravity
 
 local P0 = 7000000
@@ -41,25 +41,4 @@ local mache = ve / a
 
 function Set()
     P0 = 2
-end
-
-
-
-
-
-
-
-print(Rgas .. "   " .. mdot .. "   " .. ve .. "   " .. thrust)
-
-print("\n" .. isp .. "   " .. twr .. "   " .. mache)
-
-tables = 2
-
-print("\n" )
-
-
---note: after one engine stats are calculated the next on calculated until complete and final delta v stats are posted
-
---add units to all
-
---add license and logo in Ascii
+end*/

@@ -11,14 +11,14 @@ internal class Program
         float T0 = 2200f;
         float k = 1.41f;
 
-        float Aratio = 26f;
+        float Aratio = 20f;
         float De = 0.25f;
         float Ae = (float)(Math.PI * Math.Pow(De, 2) / 4);
         float At = Ae / Aratio;
 
         float p0 = 50000000f;
         float pe = 101325f;
-        float pa = 101325f;
+        float pa = 0f;
 
         float R = Ru / Mw;
         float ρ0 = p0 / (R * T0); //kg/m3

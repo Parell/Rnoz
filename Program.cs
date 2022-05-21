@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System;
+
+internal class Program
 {
     static void Main(string[] args)
     {
@@ -58,11 +60,10 @@
         string Output()
         {
             string text = string.Format("\n" +
-                                     "Energy ----------------------- \n\n" +
-                                     "Input            {12} MW \n" +
-                                     "Lose             {11} MW \n" +
-                                     "Final            {10} MW \n\n" +
-                                     "Performance ------------------ \n\n" +
+                                     //"Energy ----------------------- \n\n" +
+                                     //"Input            {12} MW \n" +
+                                     //"Lose             {11} MW \n" +
+                                     //"Final            {10} MW \n\n" +
                                      "Temp             {9} K \n" +
                                      "Thrust           {1} kN \n" +
                                      "Mass flow rate   {2} kg/s \n" +

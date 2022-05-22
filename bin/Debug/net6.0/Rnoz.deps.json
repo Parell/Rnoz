@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Rnoz/1.0.0": {
+      "rnoz/1.0.0": {
         "runtime": {
-          "Rnoz.dll": {}
+          "rnoz.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Rnoz/1.0.0": {
+    "rnoz/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

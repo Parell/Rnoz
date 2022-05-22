@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\rnoz\\Rnoz.csproj",
-      "projectName": "Rnoz",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\rnoz\\Rnoz.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj",
+      "projectName": "rnoz",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\rnoz\\obj\\",
       "projectStyle": "PackageReference",

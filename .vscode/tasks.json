@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Rnoz.csproj",
+                "${workspaceFolder}/rnoz.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Rnoz.csproj",
+                "${workspaceFolder}/rnoz.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Rnoz.csproj"
+                "${workspaceFolder}/rnoz.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

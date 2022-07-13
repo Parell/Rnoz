@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj": {}
+    "C:\\Users\\parel\\Desktop\\rnoz\\rnoz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj": {
+    "C:\\Users\\parel\\Desktop\\rnoz\\rnoz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj",
+        "projectUniqueName": "C:\\Users\\parel\\Desktop\\rnoz\\rnoz.csproj",
         "projectName": "rnoz",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\rnoz\\rnoz.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\rnoz\\obj\\",
+        "projectPath": "C:\\Users\\parel\\Desktop\\rnoz\\rnoz.csproj",
+        "packagesPath": "C:\\Users\\parel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\parel\\Desktop\\rnoz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\parel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
